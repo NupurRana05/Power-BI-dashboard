@@ -4,7 +4,8 @@ Superstore Report
 <img width="623" alt="superstore report" src="https://github.com/user-attachments/assets/276deba4-84fe-4c22-af01-128b5b0388b7">
 
 I created a Cards to disply Sum of Sales, Quantity, Profit and Discount that Users can get the total Sales ,Profit, Quantity and Discount.
-Each card displays a single, prominent numerical value:
+Each card displays a single, prominent numerical value.
+
 Sum of Sales: Shows the total revenue generated.
 Sum of Quantity: Reflects the total number of items sold.
 Sum of Profit: Indicates the total profit earned.
