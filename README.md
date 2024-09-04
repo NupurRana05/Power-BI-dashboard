@@ -5,11 +5,10 @@ Superstore Report
 
 I created a Cards to disply Sum of Sales, Quantity, Profit and Discount that Users can get the total Sales ,Profit, Quantity and Discount.
 Each card displays a single, prominent numerical value.
-
-Sum of Sales: Shows the total revenue generated.
-Sum of Quantity: Reflects the total number of items sold.
-Sum of Profit: Indicates the total profit earned.
-Sum of Discount: Displays the total discounts applied
+Sum of Sales:- Shows the total revenue generated.
+Sum of Quantity:- Reflects the total number of items sold.
+Sum of Profit:- Indicates the total profit earned.
+Sum of Discount:-Displays the total discounts applied
 
 I created a Slicer to display the state then We check sales profit state wise.The slicer provides an interactive way for users to focus on specific states within the data. By selecting a particular state.
 
